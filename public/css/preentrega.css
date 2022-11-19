@@ -1,0 +1,69 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+background-image: url(background: #ADA996;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */);
+}
+
+.descripcion {
+    margin-top: 100px;
+}
+h1{
+    padding: 50px;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 6rem;
+}
+
+.foto1{
+    width: 2000px;
+    height: 750px;
+    max-width: 100%;
+}
+.menu{
+    width: 1700px;
+    height: 40px;
+    padding: 0%;
+    list-style-type: none;
+    margin: 20px auto;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.menu li{
+    display: inline-block;
+    text-align: right;
+}
+.menu li a{
+    padding: 30px;
+    margin: 0px;
+    color: black;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.parrafo{
+
+  
+    padding: 100px 200px;
+    font-size: 25px;
+    border-radius: 15px;
+    text-align: center;
+}
+.parrafo img{
+    border-radius: 5px;
+    float: left;
+    margin-right: 15px;
+}
+   
+.formContacto{
+    margin-top: 300px;
+}
+
+.button{
+   margin-top: 150px;
+   font-family: Arial, Helvetica, sans-serif;
+}

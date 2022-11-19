@@ -1,0 +1,15 @@
+.contenedor{
+ 
+   margin-top: 150px;
+  
+    height: 50vh;
+    margin: 5%;
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+p{
+    font-size: 20px;
+    width: 50%;
+}
